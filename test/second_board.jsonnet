@@ -54,7 +54,7 @@
     ]
   },
   "timezone": "",
-  "title": "Boom",
+  "title": "A brand new provisioned board from Github",
   "uid": null,
   "version": 0
 }
